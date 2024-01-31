@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kenny
+- 👋 Hi, I’m Kenny/Kehinde
 - 👀 I’m interested in Web/App development, Stastistics and AI
 - 🌱 I’m currently studying Computer Science at University of Guelph.
 - 💞️ I’m looking to collaborate on anything. Just reach out!
