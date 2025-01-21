@@ -7,7 +7,7 @@
 - Portfolio: [kennyyy5.netlify.app](https://kennyyy5.netlify.app/)
 - Tools, languages and frameworks I use:
  
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bash,bootstrap,c,css,django,docker,eclipse,express,figma,firebase,git,jquery,matlab,mongodb,nextjs,netlify,nodejs,postgres,postman,powershell,py,pycharm,r,react,sqlite,mysql,sklearn,tailwind,vercel,flutter,androidstudio,apple,bash,babel,dart,dynamodb,flask,redux,ts,ubuntu,windows)](https://kennyyy5.netlify.app/)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bash,bootstrap,c,django,docker,eclipse,express,figma,firebase,git,jquery,matlab,mongodb,nextjs,netlify,nodejs,postgres,postman,powershell,py,pycharm,r,react,sqlite,mysql,sklearn,tailwind,vercel,flutter,androidstudio,apple,bash,babel,dart,dynamodb,flask,redux,ts,ubuntu,windows)](https://kennyyy5.netlify.app/)
 
 
 
