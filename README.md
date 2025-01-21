@@ -3,7 +3,7 @@
 - I’m interested in full stack web development, app development and software engineering.
 - I’m currently studying Computer Science at University of Guelph.
 - I’m looking to collaborate on anything. Just reach out!
-- How to reach me: khndadenuga@gmail.com
+- How to reach me: kadenuga@uoguelph.ca
 - Portfolio: [kennyyy5.netlify.app](https://kennyyy5.netlify.app/)
 - Tools, languages and frameworks I use:
  
