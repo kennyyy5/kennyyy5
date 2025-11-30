@@ -1,6 +1,6 @@
 ## Kehinde Adenuga
-- Hi, I’m Kehinde but I go by Kenny
-- I’m interested in full stack web development, app development and software engineering.
+- Hi, I’m Kehinde but I prefer Kenny
+- I’m interested in full stack web development, software engineering, IT/IT support, data analysis and cybersecurity.
 - I’m currently studying Computer Science at University of Guelph.
 - I’m looking to collaborate on anything. Just reach out!
 - How to reach me: kadenuga@uoguelph.ca
